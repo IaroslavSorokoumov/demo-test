@@ -10,12 +10,12 @@
 # gcd(4782, 698)
 
 print("Введите первую точку")
-x1 = float(input('X: '))
-y1 = float(input('Y: '))
+x1 = float(input('Введите X1: '))
+y1 = float(input('Введите Y1: '))
 
 print("\nВведите вторую точку")
-x2 = float(input('X: '))
-y2 = float(input('Y: '))
+x2 = float(input('Укажите X2: '))
+y2 = float(input('Укажтите Y2: '))
 
 x_diff = x1 - x2
 y_diff = y1 - y2
