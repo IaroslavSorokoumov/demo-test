@@ -9,11 +9,9 @@
 #
 # gcd(4782, 698)
 
-print("Введите первую точку")
 x1 = float(input('Введите X1: '))
 y1 = float(input('Введите Y1: '))
 
-print("\nВведите вторую точку")
 x2 = float(input('Укажите X2: '))
 y2 = float(input('Укажтите Y2: '))
 
