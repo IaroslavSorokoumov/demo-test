@@ -19,9 +19,9 @@ x_diff = x1 - x2
 y_diff = y1 - y2
 print("Уравнение прямой, проходящей через эти точки:")
 if x_diff == 0:
-    print("x =", x1)
+    print("Значение x =", x1)
 elif y_diff == 0:
-    print('y =', y1)
+    print('Значение y =', y1)
 else:
     k = y_diff / x_diff
     b = y2 - k * x2
