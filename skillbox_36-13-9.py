@@ -22,7 +22,7 @@ else:
     depth = calc_depth(depth_top, depth_bottom)
     danger = calc_danger(depth)
     #print('Глубина:', depth, 'Опастность:', danger)
-  print('Приблизительная глубина безопасной кладки: ', depth, 'm')
+  print('Приблизительная глубина безопасной кладки сосотавляет: ', depth, 'm')
 
 
 
